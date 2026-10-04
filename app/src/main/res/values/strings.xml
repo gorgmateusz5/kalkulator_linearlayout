@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">kalkulator_linearlayout</string>
-    <string name="title">Kalkulator</string>
     <string name="btn_add">+</string>
     <string name="btn_sub">-</string>
     <string name="btn_multi">×</string>
